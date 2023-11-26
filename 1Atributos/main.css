@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    display: flex; /* Isso faz com que o corpo da página seja um contêiner flexível.*/
+    justify-content: center;/*Isso centraliza os itens horizontalmente no contêiner */
+    align-items: center;/* Isso centraliza os itens verticalmente no contêiner flexível*/
+    min-height: 100vh;/*Garante que o contêiner flexível ocupe pelo menos 100% da altura da tela.*/
+  }
+  
+  .content {
+    text-align: center;/*alinha itens desta div ao centro*/
+  }
+  
+  form {
+   background-color: aqua;
+  }
+  
